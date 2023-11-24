@@ -14,6 +14,7 @@ const pwaOptions : Partial<VitePWAOptions> ={
     description: 'Werewolf Helper - Helper tool for moderators',
     theme_color: '#1976d2',
     background_color: '#1976d2',
+    start_url: ".",
     icons: [
       {
         src: 'android-chrome-192x192.png',
